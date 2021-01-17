@@ -1,0 +1,7 @@
+C:\Users\kriss\source\ProblemeFPpool\problma5\bin\Debug\problma5.exe.config
+C:\Users\kriss\source\ProblemeFPpool\problma5\bin\Debug\problma5.exe
+C:\Users\kriss\source\ProblemeFPpool\problma5\bin\Debug\problma5.pdb
+C:\Users\kriss\source\ProblemeFPpool\problma5\obj\Debug\problma5.csprojAssemblyReference.cache
+C:\Users\kriss\source\ProblemeFPpool\problma5\obj\Debug\problma5.csproj.CoreCompileInputs.cache
+C:\Users\kriss\source\ProblemeFPpool\problma5\obj\Debug\problma5.exe
+C:\Users\kriss\source\ProblemeFPpool\problma5\obj\Debug\problma5.pdb

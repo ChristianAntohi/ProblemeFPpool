@@ -1,0 +1,7 @@
+C:\Users\kriss\source\repos\Problema4\bin\Debug\Problema4.exe.config
+C:\Users\kriss\source\repos\Problema4\bin\Debug\Problema4.exe
+C:\Users\kriss\source\repos\Problema4\bin\Debug\Problema4.pdb
+C:\Users\kriss\source\repos\Problema4\obj\Debug\Problema4.csprojAssemblyReference.cache
+C:\Users\kriss\source\repos\Problema4\obj\Debug\Problema4.csproj.CoreCompileInputs.cache
+C:\Users\kriss\source\repos\Problema4\obj\Debug\Problema4.exe
+C:\Users\kriss\source\repos\Problema4\obj\Debug\Problema4.pdb
